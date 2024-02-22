@@ -1,3 +1,4 @@
 role,NetID,LastName,FirstName
 boss,jstump,Stump,Jordan
 employee,zhang2873,Zhang,Yifan
+employee,bhaertle,Haertle,Bryce
